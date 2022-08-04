@@ -3,7 +3,7 @@
 <a href="https://github.com/1hanzla100/Django-ecommerce/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/1hanzla100/Django-ecommerce"></a>
 <a href="https://github.com/1hanzla100/Django-ecommerce/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/1hanzla100/Django-ecommerce"></a> <a href="https://github.com/1hanzla100/Django-ecommerce/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/1hanzla100/Django-ecommerce"></a>
 
-## Atlas Mart is a OLX like Marketplace built with Python Django and React.js, Material UI
+## Shopaza is Ecommerce website built with django. Now your reach to all your favorite entertainment and luxury items is just one touch apart
 
 If you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/1hanzla100/Django-ecommerce/issues).
 
